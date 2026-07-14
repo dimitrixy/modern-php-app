@@ -1,0 +1,8 @@
+#Sensitive Configuration Files
+.env
+
+#Docker Runtime Files
+get-docker.sh
+
+#OS junk Files
+.DS_Store
